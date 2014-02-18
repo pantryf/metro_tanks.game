@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<tanks>
+	<entity id="marc_body">
+		<tile x="-5" y="0" width="11" height="1" color="#FFFFEEDD" />
+		<tile x="-7" y="-3" width="15" height="3" color="#FFCCBBAA" />
+		<tile x="-5" y="-2" width="11" height="2" color="#FF998877" />
+		<tile x="-3" y="-5" width="7" height="2" color="#FF665544" />
+	</entity>
+	<entity id="marc_turret">
+		<tile x="0" y="-1" width="3" height="3" color="#FFFFEEDD" />
+		<tile x="0" y="0" width="11" height="1" color="#FFCCBBAA" />
+	</entity>
+</tanks>
